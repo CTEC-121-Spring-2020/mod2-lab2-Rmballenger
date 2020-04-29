@@ -15,6 +15,7 @@ Output: return value and description
 
 
 from math import *
+
 def main():
 
     print("\ndemo use of type()")
